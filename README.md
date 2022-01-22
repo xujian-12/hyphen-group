@@ -12,8 +12,8 @@ pip3 install pandas
 ## Procedures
 
 1. Run `sh automation.sh`
-2. Once the script completed. You can access two web applications by https://localhost/foo and https://localhost/foo
-3. Prometheus server can be access by  https://localhost:8080
+2. Once the script completed. You can access two web applications by http://localhost/foo and http://localhost/foo
+3. Prometheus server can be access by  http://localhost:8080
 4. Report are stored in `report.csv`
 
 ## Improvement
