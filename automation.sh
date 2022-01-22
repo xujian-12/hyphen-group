@@ -31,5 +31,7 @@ echo "--------------------------------------------------------------------------
 
 echo "Start benchmark and get prometheus report"
 sh benchmark.sh single
-python3 export_to_csv.py | echo ""
+python3 export_to_csv.py
+
+echo ""
 echo "Your report are ready, please check report.csv"

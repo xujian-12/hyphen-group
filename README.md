@@ -18,7 +18,7 @@ pip3 install pandas
 
 ## Improvement
 
-1. Use better benmark tool to have proper testing on Ingress Controller.
+1. Use better benchmarking tool to have proper testing on Ingress Controller.
 2. Use combinations of promql to have better reports.
 
 ## Cleanup
